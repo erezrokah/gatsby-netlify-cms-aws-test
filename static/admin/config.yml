@@ -1,7 +1,6 @@
 backend:
-  name: github
+  name: git-gateway
   branch: master
-  preview_context: ci/preview
 
 publish_mode: editorial_workflow
 media_folder: static/media

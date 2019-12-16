@@ -24,7 +24,7 @@ exports.handler = async (event, context) => {
     headers: {
       authorization,
     },
-  });
+  }).then(res => res.json());
   console.log('Create user sites:', JSON.stringify(sites, null, 2));
   const site = sites.find(site => site.ssl_url === siteUrl);
   if (!site) {

@@ -4,5 +4,3 @@
 /.travis.yml export-ignore
 **/*.js.snap export-ignore
 static/media/** filter=lfs diff=lfs merge=lfs -text
-*.png filter=lfs diff=lfs merge=lfs -text
-*.jpg filter=lfs diff=lfs merge=lfs -text

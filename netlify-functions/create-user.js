@@ -43,6 +43,7 @@ exports.handler = async (event, context) => {
       body: JSON.stringify({
         email,
         password,
+        confirm: true,
       }),
     })
       .then(response => {

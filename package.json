@@ -28,7 +28,8 @@
     "prettier:ci": "prettier --list-different \"{flow,jest,serverless-scripts,serverless-single-page-app-plugin,src,backend,gatsby}/**/*.{js,jsx,ts,scss}\" *.js",
     "circleci:setup": "node .circleci/circleci.js setup",
     "circleci:remove": "node .circleci/circleci.js remove",
-    "lighthouse": "TZ=GMT CI=true JEST_JUNIT_OUTPUT=jest/reports/${npm_package_name}-lighthouse-results.xml jest --config ./jest/lighthouse/jest-config.js"
+    "lighthouse": "TZ=GMT CI=true JEST_JUNIT_OUTPUT=jest/reports/${npm_package_name}-lighthouse-results.xml jest --config ./jest/lighthouse/jest-config.js",
+    "postinstall": "mkdir static/media"
   },
   "repository": "https://github.com/erezrokah/gatsby-netlify-cms-aws",
   "author": "Erez Rokah <erezrokah@gmail.com>",

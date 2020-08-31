@@ -117,7 +117,7 @@
     "@babel/preset-env": "7.11.0",
     "@babel/preset-react": "7.10.4",
     "@testing-library/react": "^9.5.0",
-    "@types/aws-lambda": "^8.10.39",
+    "@types/aws-lambda": "^8.10.61",
     "@types/jest": "^24.9.1",
     "@types/randomstring": "^1.1.6",
     "@types/simple-oauth2": "^2.5.4",

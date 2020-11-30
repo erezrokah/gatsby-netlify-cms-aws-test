@@ -110,7 +110,7 @@
   },
   "devDependencies": {
     "@anttiviljami/serverless-stack-output": "^0.3.1",
-    "@babel/core": "7.12.7",
+    "@babel/core": "7.12.9",
     "@babel/plugin-proposal-class-properties": "7.12.1",
     "@babel/plugin-proposal-optional-chaining": "7.12.7",
     "@babel/plugin-transform-flow-strip-types": "^7.10.4",

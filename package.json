@@ -131,7 +131,7 @@
     "babel-jest": "24.9.0",
     "babel-preset-gatsby": "0.12.3",
     "browserslist": "4.16.6",
-    "chrome-launcher": "^0.13.0",
+    "chrome-launcher": "^0.14.0",
     "concurrently": "5.3.0",
     "dotenv": "^8.2.0",
     "eslint": "^6.7.2",

@@ -144,7 +144,7 @@
     "flow-bin": "^0.149.0",
     "flow-typed": "^2.6.2",
     "fs-extra": "^8.0.1",
-    "gh-pages": "2.2.0",
+    "gh-pages": "3.2.3",
     "identity-obj-proxy": "3.0.0",
     "jest": "24.9.0",
     "jest-cli": "24.9.0",

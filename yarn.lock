@@ -2608,9 +2608,9 @@
   integrity sha512-EaCxbanVeyxDRTQBkdLb3Bvl/HK7PBK6UJjsSixB0iHKoWxE5uu2Q/DgtpOhPIojN0Zl1whvOd7PoHs2P0s5eA==
 
 "@types/simple-oauth2@^2.5.4":
-  version "2.5.4"
-  resolved "https://registry.yarnpkg.com/@types/simple-oauth2/-/simple-oauth2-2.5.4.tgz#0cde069c4a76c3bc21642972150a951c2bc864c7"
-  integrity sha512-+s8E3lDnVE+mftTFZtxSF9U9nE6bDFOeAYOUoQ700Tv/nT70y+bqNkpSxfCqtForzAqQANpXo92r/lXE37fmew==
+  version "2.5.5"
+  resolved "https://registry.yarnpkg.com/@types/simple-oauth2/-/simple-oauth2-2.5.5.tgz#848f8538e47dd4386ecd8182f1b9faf53e12d22c"
+  integrity sha512-SLWEO4NCLNridfYIuZbuGI53MWVH7Sxkm2EQuaLuOW3FI/rpda/MDlQ4wTnVlZ0uLidEJE9tzAO2gNFkbHSzKA==
 
 "@types/stack-utils@^1.0.1":
   version "1.0.1"

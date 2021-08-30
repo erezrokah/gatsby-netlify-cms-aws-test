@@ -18067,9 +18067,9 @@ serverless-s3-remover@^0.6.0:
   version "1.0.5"
 
 serverless-webpack@^5.3.1:
-  version "5.5.1"
-  resolved "https://registry.yarnpkg.com/serverless-webpack/-/serverless-webpack-5.5.1.tgz#cd42a90d517678907b8b5b8612f762357bc54f3e"
-  integrity sha512-pQ0TmoHp7WTJIIiLBf36p+DUvuk64z7levBrkXTEy1H3bfDZGu7B8KuUD5bI3hInYaq3P95R2HAyTSgHYU4gYg==
+  version "5.5.2"
+  resolved "https://registry.yarnpkg.com/serverless-webpack/-/serverless-webpack-5.5.2.tgz#19217cd881e5ee45f1387514c52a26f23e1e8666"
+  integrity sha512-SDMOUxo9FoyCIv1JPWgJlpaGTG78qcqt+yTXP/raEA40yInCVKSz2AP2MlukjjAfFe1O9yAwcL6IbjOmyueYHQ==
   dependencies:
     bestzip "^2.2.0"
     bluebird "^3.7.2"
@@ -19848,9 +19848,9 @@ ts-loader@^6.2.1:
     semver "^6.0.0"
 
 "ts-node@>= 8.3.0":
-  version "10.2.0"
-  resolved "https://registry.yarnpkg.com/ts-node/-/ts-node-10.2.0.tgz#f1e88249a00e26aa95e9a93c50f70241a8a1c4bb"
-  integrity sha512-FstYHtQz6isj8rBtYMN4bZdnXN1vq4HCbqn9vdNQcInRqtB86PePJQIxE6es0PhxKWhj2PHuwbG40H+bxkZPmg==
+  version "10.2.1"
+  resolved "https://registry.yarnpkg.com/ts-node/-/ts-node-10.2.1.tgz#4cc93bea0a7aba2179497e65bb08ddfc198b3ab5"
+  integrity sha512-hCnyOyuGmD5wHleOQX6NIjJtYVIO8bPP8F2acWkB4W06wdlkgyvJtubO/I9NkI88hCFECbsEgoLc0VNkYmcSfw==
   dependencies:
     "@cspotcode/source-map-support" "0.6.1"
     "@tsconfig/node10" "^1.0.7"
